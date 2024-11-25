@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RBAC_Dashboard/static/css/main.16be7fd9.css",
+    "main.js": "/RBAC_Dashboard/static/js/main.24a832c3.js",
+    "index.html": "/RBAC_Dashboard/index.html",
+    "main.16be7fd9.css.map": "/RBAC_Dashboard/static/css/main.16be7fd9.css.map",
+    "main.24a832c3.js.map": "/RBAC_Dashboard/static/js/main.24a832c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16be7fd9.css",
+    "static/js/main.24a832c3.js"
+  ]
+}
